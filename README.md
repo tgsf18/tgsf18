@@ -1,12 +1,8 @@
 # Olá, eu sou o Thiago De Souza Ferreira 
 
-
-
 <div align="center">
-  <img src="banner-fundo.png/banner-fundo.png
-  " width="100%">
+  <img src="banner-fundo.png" width="100%" alt="Banner do Thiago">
 </div>
-
 
 
 Sou um **Desenvolvedor Full Stack Junior** focado em criar interfaces incríveis com Web Design. Atualmente, estou aprimorando minhas habilidades em HTML5, Tailwind CSS e arquitetura de layouts.
