@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="
+  <img src="Chrome-Style Developer Banner.png
   " width="100%">
 </div>
 
