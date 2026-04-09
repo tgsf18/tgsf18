@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Thiago De Souza Ferreira 
 
-<!--
-**tgsf18/tgsf18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um **Desenvolvedor Full Stack Junior** focado em criar interfaces incríveis com Web Design. Atualmente, estou aprimorando minhas habilidades em HTML5, Tailwind CSS e arquitetura de layouts.
 
-Here are some ideas to get you started:
+###  ‧₊˚🕷‧₊˚ Sobre mim
+-  Atualmente trabalhando no projeto **Web-layout-pro**.
+-  Aprendendo profundamente sobre semântica e estilização avançada.
+-  Pergunte-me sobre: HTML, CSS, Tailwind e Design Responsivo.
+- ⚡ Curiosidade: Tenho uma comunidade no discord (https://discord.gg/kcwN2TAZ4A).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ζ͜͡𝕲𝖍𝖔𝖘𝖙 𔓎 Foco Técnico
+- **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript.
+- **Ferramentas:** Git, GitHub, VS Code.
+
+### 🔗 Contatos
+- **Discord:** tsouza_08
+- **E-mail:** thiagosouzaferreira1a@gmail.com
+
+
+---
