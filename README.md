@@ -5,7 +5,9 @@
   Sou um <b>Desenvolvedor Full Stack Junior</b> focado em criar interfaces de Web Design.
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/tgsf18/tgsf18/blob/main/banner-fundo.png.png?raw=true" width="100%">
+</p>
 
 ---
 
