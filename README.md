@@ -1,7 +1,8 @@
 # Olá, eu sou o Thiago De Souza Ferreira 
 
 <div align="center">
-  <img src="banner-fundo.png" width="100%" alt="Banner do Thiago">
+  <img src="banner-fundo.png.png
+  " width="100%" alt="Banner do Thiago">
 </div>
 
 
