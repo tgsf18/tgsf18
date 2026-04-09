@@ -1,5 +1,11 @@
 # Olá, eu sou o Thiago De Souza Ferreira 
 
+
+
+![Uploading Chrome-Style Developer Banner.png…]()
+
+
+
 Sou um **Desenvolvedor Full Stack Junior** focado em criar interfaces incríveis com Web Design. Atualmente, estou aprimorando minhas habilidades em HTML5, Tailwind CSS e arquitetura de layouts.
 
 ###  ‧₊˚🕷‧₊˚ Sobre mim
