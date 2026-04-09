@@ -15,7 +15,7 @@
 *  Atualmente trabalhando no projeto **Web-layout-pro**.
 *  Aprendendo profundamente sobre semântica e estilização avançada.
 *  Pergunte-me sobre: **HTML, CSS, Tailwind e Design Responsivo**.
-*  Curiosidade: Tenho uma comunidade no [Discord](https://discord.gg/kcWN2TAZ4A).
+*  Curiosidade: Tenho uma comunidade no [Discord](https://discord.gg/kcwN2TAZ4A).
 
 ###  Foco Técnico
 * **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript.
