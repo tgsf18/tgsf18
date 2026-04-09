@@ -2,7 +2,9 @@
 
 
 
-![Uploading Chrome-Style Developer Banner.png…]()
+<div align="center">
+  <img src="banner-fundo.png" width="100%">
+</div>
 
 
 
