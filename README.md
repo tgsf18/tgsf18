@@ -1,5 +1,5 @@
 
-<h1 align="center">Olá, eu sou o Thiago De Souza Ferreira </h1>
+<h1 align="center">Thiago De Souza Ferreira </h1>
 
 <p align="center">
   Sou um <b>Desenvolvedor Full Stack Junior</b> focado em criar interfaces de Web Design.
