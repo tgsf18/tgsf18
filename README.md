@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="banner-fundo.png" alt="Header" width="100%">
+  <img src="<p align="center">
+  <img src="https://raw.githubusercontent.com/tgsf18/tgsf18/main/banner.fundo.png" width="100%">
+</p>" alt="Header" width="100%">
 </p>
 
 <h1 align="center">Olá, eu sou o Thiago De Souza Ferreira 👋</h1>
