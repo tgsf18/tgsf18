@@ -13,8 +13,7 @@
 
 ### Sobre mim
 *  Atualmente trabalhando no projeto **ELLENCO** e **CONLIZ**.
-*  Aprendendo profundamente sobre semântica e estilização avançada e .
-*  Pergunte-me sobre: **HTML, CSS, Tailwind e Design Responsivo**.
+*  Aprendendo profundamente sobre semântica e estilização avançada e sites saas .
 
 ###  Foco Técnico
 * **Full Stack:** HTML5, CSS3, Tailwind CSS, JavaScript, Spring Boot, Java, PostSQL, h2.
